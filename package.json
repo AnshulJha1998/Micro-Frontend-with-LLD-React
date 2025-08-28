@@ -1,0 +1,11 @@
+{
+  "name": "lld-projects",
+  "version": "1.0.0",
+  "description": "All small lld tutorials on micro frontend arch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
